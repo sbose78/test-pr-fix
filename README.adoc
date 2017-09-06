@@ -2,7 +2,7 @@
 
 == Run this Booster Locally
 
-To run this booster on your local host:
+To run this booster on your local host or on AWS :
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
